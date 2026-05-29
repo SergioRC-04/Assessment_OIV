@@ -29,7 +29,7 @@ No requiere de compiladores, dependencias externas ni entornos de ejecución com
 
 1. **Clonar o descargar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/SergioRC-04/Assessment_OIV.git
 
 2. **Navegar a la carpeta del proyecto:**
    ```bash
